@@ -11,7 +11,7 @@ const App = ()=> {
                 <Typography variant="h2" align="center">
                     ShareLife
                 </Typography>
-                <img src= {sharelife} alt='sharelife' height="500" />            
+                <img src= {sharelife} alt='sharelife' height="1000" />            
                 </AppBar>
                 <Grow in>
                     <Container>
